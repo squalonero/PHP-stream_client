@@ -1,0 +1,179 @@
+<br />
+<b>Notice</b>:  Undefined variable: headersArr in <b>C:\laragon\www\stream_client\index.php</b> on line <b>26</b><br />
+NULL
+
+
+array(0) {
+}
+
+
+array(0) {
+}
+
+
+array(0) {
+}
+
+
+array(0) {
+}
+
+
+array(0) {
+}
+
+
+array(0) {
+}
+
+
+array(0) {
+}
+
+
+array(0) {
+}
+
+
+array(7) {
+  ["Date"]=>
+  string(19) "Sun, 17 Apr 2022 12"
+  ["Server"]=>
+  string(47) "Apache/2.4.35 (Win64) OpenSSL/1.1.1l PHP/7.4.24"
+  ["X-Powered-By"]=>
+  string(10) "PHP/7.4.24"
+  ["Content-Disposition"]=>
+  string(29) "attachment; filename="8k.zip""
+  ["FileName"]=>
+  string(6) "8k.zip"
+  ["Transfer-Encoding"]=>
+  string(7) "chunked"
+  ["Content-Type"]=>
+  string(15) "application/zip"
+}
+
+
+array(7) {
+  ["Date"]=>
+  string(19) "Sun, 17 Apr 2022 13"
+  ["Server"]=>
+  string(47) "Apache/2.4.35 (Win64) OpenSSL/1.1.1l PHP/7.4.24"
+  ["X-Powered-By"]=>
+  string(10) "PHP/7.4.24"
+  ["Content-Disposition"]=>
+  string(29) "attachment; filename="8k.zip""
+  ["FileName"]=>
+  string(6) "8k.zip"
+  ["Transfer-Encoding"]=>
+  string(7) "chunked"
+  ["Content-Type"]=>
+  string(15) "application/zip"
+}
+
+
+array(0) {
+}
+
+
+array(0) {
+}
+
+
+array(0) {
+}
+
+
+array(0) {
+}
+
+
+array(7) {
+  ["Date"]=>
+  string(19) "Sun, 17 Apr 2022 13"
+  ["Server"]=>
+  string(47) "Apache/2.4.35 (Win64) OpenSSL/1.1.1l PHP/7.4.24"
+  ["X-Powered-By"]=>
+  string(10) "PHP/7.4.24"
+  ["Content-Disposition"]=>
+  string(29) "attachment; filename="8k.zip""
+  ["FileName"]=>
+  string(6) "8k.zip"
+  ["Transfer-Encoding"]=>
+  string(7) "chunked"
+  ["Content-Type"]=>
+  string(15) "application/zip"
+}
+
+
+array(7) {
+  ["Date"]=>
+  string(19) "Sun, 17 Apr 2022 13"
+  ["Server"]=>
+  string(47) "Apache/2.4.35 (Win64) OpenSSL/1.1.1l PHP/7.4.24"
+  ["X-Powered-By"]=>
+  string(10) "PHP/7.4.24"
+  ["Content-Disposition"]=>
+  string(29) "attachment; filename="8k.zip""
+  ["FileName"]=>
+  string(6) "8k.zip"
+  ["Transfer-Encoding"]=>
+  string(7) "chunked"
+  ["Content-Type"]=>
+  string(15) "application/zip"
+}
+
+
+array(7) {
+  ["Date"]=>
+  string(19) "Sun, 17 Apr 2022 13"
+  ["Server"]=>
+  string(47) "Apache/2.4.35 (Win64) OpenSSL/1.1.1l PHP/7.4.24"
+  ["X-Powered-By"]=>
+  string(10) "PHP/7.4.24"
+  ["Content-Disposition"]=>
+  string(29) "attachment; filename="8k.zip""
+  ["FileName"]=>
+  string(6) "8k.zip"
+  ["Transfer-Encoding"]=>
+  string(7) "chunked"
+  ["Content-Type"]=>
+  string(15) "application/zip"
+}
+
+
+array(7) {
+  ["Date"]=>
+  string(19) "Sun, 17 Apr 2022 13"
+  ["Server"]=>
+  string(47) "Apache/2.4.35 (Win64) OpenSSL/1.1.1l PHP/7.4.24"
+  ["X-Powered-By"]=>
+  string(10) "PHP/7.4.24"
+  ["Content-Disposition"]=>
+  string(29) "attachment; filename="8k.zip""
+  ["FileName"]=>
+  string(6) "8k.zip"
+  ["Transfer-Encoding"]=>
+  string(7) "chunked"
+  ["Content-Type"]=>
+  string(15) "application/zip"
+}
+
+
+array(7) {
+  ["Date"]=>
+  string(19) "Sun, 17 Apr 2022 14"
+  ["Server"]=>
+  string(47) "Apache/2.4.35 (Win64) OpenSSL/1.1.1l PHP/7.4.24"
+  ["X-Powered-By"]=>
+  string(10) "PHP/7.4.24"
+  ["Content-Disposition"]=>
+  string(29) "attachment; filename="8k.zip""
+  ["FileName"]=>
+  string(6) "8k.zip"
+  ["Transfer-Encoding"]=>
+  string(7) "chunked"
+  ["Content-Type"]=>
+  string(15) "application/zip"
+}
+
+
